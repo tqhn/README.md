@@ -2,7 +2,7 @@
 
 🎯 **Quality Manager | Data-Inspired Problem Solver**
 
-Welcome to my GitHub! I'm currently a Quality Manager in the manufacturing sector, bringing over a decade of experience in quality systems, root cause analysis, continuous improvement, and operational excellence. Alongside my core profession, I’m actively expanding my skills in **Python**, **SQL**, **data analysis**, and **automation** to solve real-world manufacturing problems more efficiently.
+Welcome to my GitHub! I'm currently a Quality Manager in the manufacturing sector, bringing over a decade of experience in quality systems, root cause analysis, continuous improvement, and operational excellence. Alongside my core profession, I’m actively expanding my skills in **Python**, **SQL**, **data analysis**, and **automation** to solve real-world problems more efficiently.
 
 ---
 
